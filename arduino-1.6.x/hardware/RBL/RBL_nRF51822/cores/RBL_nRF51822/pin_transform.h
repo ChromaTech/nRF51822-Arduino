@@ -31,6 +31,7 @@
 #include "Arduino.h"
 
 
+PinName Pin_nRF51822_to_Analog(uint32_t pin);
 PinName Pin_nRF51822_to_Arduino(uint32_t pin);
 
 
